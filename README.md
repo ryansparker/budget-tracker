@@ -1,6 +1,6 @@
 # Budget Tracker
 
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+Budget Tracker application that allows for offline access and functionality.
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
@@ -23,6 +23,17 @@ SO THAT my account balance is accurate when I am traveling
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
+## Screenshot
+
+![Image](/screenshot.png)
+
+## Credits
+
+Budget Tracker App:
+Penn LPS Bootcamp
+
+Offline Functionality:
+Ryan Parker
 
 ## Links
 
