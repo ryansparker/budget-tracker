@@ -1,4 +1,4 @@
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
+# Budget Tracker
 
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
@@ -26,10 +26,10 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Links
 
-  * the URL to the deployed application
+  * https://budget-track-heroku.herokuapp.com/
 
   * https://github.com/ryansparker/budget-tracker
 
 
- https://unique-tracker-budget.herokuapp.com/ | https://git.heroku.com/unique-tracker-budget.gi
+  
 
